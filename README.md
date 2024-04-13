@@ -31,6 +31,7 @@ lub z menu przeglądarki wybierz "Rozszerzenia - Zarządzaj rozszerzeniami".
 
     ![seller_name_blocked_sample](assets/seller_name_blocked_sample.png)
 
+Oznaczenia są pokazywane tylko na stronie z listą aukcji wyświetlaną w formacie listy (strona zaczynająca się od `https://allegro.pl/kategoria/*`), w widoku galeryjnym nie są pokazywane. Sprawdzenie czy sprzedawca znajduje się na czarnej liście jest również wykonywane tylko na stronie z listą aukcji, po wejściu na stronę danej aukcji nie jest to już sprawdzane.
 ***
 Jeżeli napotkasz jakieś błędy w trakcie działania aplikacji, masz jakieś pytania, sugestie, problemy z obsługą, daj znać w sekcji "Discussions".
 Jeżeli podoba Ci się moja praca i chcesz aby była dalej rozwijana, możesz wesprzeć mnie dotacją na dowolną kwotę przez PayPal (nie ma potrzeby posiadania konta PayPal): [przekaż donację](https://www.paypal.com/donate/?hosted_button_id=GVU3UC2ZY85SN&locale.x=pl_PL)
